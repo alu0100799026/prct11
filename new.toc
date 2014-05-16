@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{3}{0}{1}
+\beamer@sectionintoc {2}{Historia del c\IeC {\'a}lculo del n\IeC {\'u}mero {$\pi $}}{4}{0}{2}
+\beamer@sectionintoc {3}{Caracter\IeC {\'\i }sticas matem\IeC {\'a}ticas}{5}{0}{3}
+\beamer@sectionintoc {4}{Bibliograf\IeC {\'\i }a}{6}{0}{4}
